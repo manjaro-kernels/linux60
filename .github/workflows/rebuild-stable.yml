@@ -1,4 +1,4 @@
-name: Rebuild Kernel
+name: Rebuild Kernel Stable
 
 on:
   workflow_dispatch:
